@@ -1,6 +1,9 @@
 # Tetris
 Tetris is a classic arcade game. I implemented it from scratch using assembly language and an 8086 emulator.
 
+![an image must be here!](https://github.com/erfanmoshiri/Tetris/blob/master/images/4.png)
+
+
 ## Key Elemets
 The purpose of this project is to design a Tetris game, but in assembly language and with the help of video capabilities of this language.
 Several vital elements play a role in this design, and the other parts work together to form the main gears of the game. Vital elements are:
